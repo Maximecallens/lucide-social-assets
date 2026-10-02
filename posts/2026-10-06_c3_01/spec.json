@@ -1,0 +1,14 @@
+{
+ "pill": "NOUVEAU",
+ "eyebrow": "OUTIL GRATUIT",
+ "title": "Votre portefeuille<br>mérite quelle <em>note</em>&nbsp;?",
+ "title_size": 82,
+ "middle_html": "<div class=\"card\"><div class=\"gauge\"><svg width=\"210\" height=\"210\" viewBox=\"0 0 210 210\"><circle cx=\"105\" cy=\"105\" r=\"90\" fill=\"none\" stroke=\"#1C3550\" stroke-width=\"16\"/><circle cx=\"105\" cy=\"105\" r=\"90\" fill=\"none\" stroke=\"#1D9E75\" stroke-width=\"16\" stroke-linecap=\"round\" stroke-dasharray=\"565\" stroke-dashoffset=\"170\" transform=\"rotate(-90 105 105)\" opacity=\".9\"/></svg><div class=\"v\"><div class=\"q\">?</div><div class=\"s\">/ 100</div></div></div><div class=\"rows\"><div class=\"t\">DIAGNOSTIC DE PORTEFEUILLE</div><div class=\"row\">{CHECK}Note qualité pondérée</div><div class=\"row\">{CHECK}Concentration &amp; secteurs</div><div class=\"row\">{CHECK}Devises &amp; zones géo</div><div class=\"row\">{CHECK}Éligibilité PEA</div></div></div>",
+ "chips": [
+  "<b>30 s</b> chrono",
+  "<b>Gratuit</b>",
+  "<b>Sans</b> inscription"
+ ],
+ "cta": "Faire le test &rarr; lucide.finance",
+ "alt": "Visuel Lucide : Votre portefeuille mérite quelle note ? Diagnostic de portefeuille gratuit, sans inscription, en 30 secondes."
+}
