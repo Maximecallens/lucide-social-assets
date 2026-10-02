@@ -1,0 +1,93 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1920px;background:#0A1628;font-family:Inter,sans-serif;color:#fff;position:relative;overflow:hidden}
+.deco{position:absolute}
+.wrap{position:absolute;inset:190px 90px 250px 90px;display:flex;flex-direction:column}
+.eyebrow{display:flex;align-items:center;gap:26px;color:#5DCAA5;font-size:30px;font-weight:600;letter-spacing:1.5px}
+.pill{border:2px solid #1D9E75;border-radius:999px;padding:8px 22px;font-size:24px;letter-spacing:2px}
+h1{font-family:'Inter Display',Inter,sans-serif;font-weight:800;font-size:100px;line-height:1.04;letter-spacing:-2.5px;margin-top:70px}
+h1 span{display:inline-block}
+h1 em{font-style:normal;color:#1D9E75}
+.rule{height:7px;background:#1D9E75;border-radius:4px;margin-top:50px}
+.card{margin-top:70px;background:#0F2036;border:2px solid #1C3550;border-radius:32px;padding:46px 40px;display:flex;align-items:center;gap:36px}
+.gauge{position:relative;width:250px;height:250px;flex:none}
+.gauge .v{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.gauge .q{font-family:'Inter Display';font-size:110px;font-weight:800;line-height:1}
+.gauge .s{font-size:34px;color:#A9B6C8;margin-top:6px}
+.rows{display:flex;flex-direction:column;gap:24px}
+.t{font-size:23px;letter-spacing:2.5px;color:#5DCAA5;font-weight:600}
+.row{display:flex;align-items:center;gap:18px;font-size:32px;font-weight:500;color:#E6ECF4}
+.chips{display:flex;gap:18px;margin-top:56px;justify-content:center}
+.chip{background:#11283f;border:1.5px solid #1C3550;border-radius:999px;padding:16px 30px;font-size:32px;color:#A9B6C8;font-weight:500}
+.chip b{color:#fff;font-weight:600}
+.cta{margin-top:56px;align-self:center;border:3px solid #1D9E75;background:rgba(29,158,117,.14);color:#5DCAA5;border-radius:20px;padding:26px 44px;font-size:42px;font-weight:700}
+.trial{margin-top:24px;text-align:center;color:#A9B6C8;font-size:28px}
+.foot{margin-top:auto;display:flex;flex-direction:column;align-items:center}
+.brand{display:flex;align-items:center;gap:20px}.brand .n{font-size:44px;font-weight:700;letter-spacing:1px}
+.tag{color:#5DCAA5;font-size:22px;letter-spacing:2.5px;margin-top:8px}
+.disc{color:#5B6B85;font-size:20px;margin-top:14px}
+</style></head><body>
+<svg class="deco" id="deco" viewBox="0 0 400 400" width="700" height="700" style="right:-300px;top:1040px">
+<rect x="58" y="58" width="284" height="284" transform="rotate(45 200 200)" fill="none" stroke="#123a44" stroke-width="2"/>
+<rect x="108" y="108" width="184" height="184" transform="rotate(45 200 200)" fill="none" stroke="#123a44" stroke-width="2"/>
+<rect x="150" y="150" width="100" height="100" transform="rotate(45 200 200)" fill="none" stroke="#10303a" stroke-width="1.5"/></svg>
+<div class="wrap">
+  <div class="eyebrow" id="eb">
+    <svg viewBox="0 0 100 100" width="86" height="86"><rect x="17" y="17" width="66" height="66" transform="rotate(45 50 50)" fill="none" stroke="#0F6E56" stroke-width="4"/><rect x="31" y="31" width="38" height="38" transform="rotate(45 50 50)" fill="none" stroke="#1D9E75" stroke-width="3"/><circle cx="50" cy="50" r="8" fill="#1D9E75"/></svg>
+    <span class="pill">NOUVEAU</span><span>OUTIL GRATUIT</span></div>
+  <h1><span class="w">Votre</span> <span class="w">portefeuille</span><br><span class="w">mérite</span> <span class="w">quelle</span> <span class="w"><em>note</em>&nbsp;?</span></h1>
+  <div class="rule" id="rule"></div>
+  <div class="card" id="card">
+    <div class="gauge"><svg width="250" height="250" viewBox="0 0 300 300">
+      <circle cx="150" cy="150" r="128" fill="none" stroke="#1C3550" stroke-width="22"/>
+      <circle id="arc" cx="150" cy="150" r="128" fill="none" stroke="#1D9E75" stroke-width="22" stroke-linecap="round" stroke-dasharray="804" stroke-dashoffset="804" transform="rotate(-90 150 150)"/></svg>
+      <div class="v"><div class="q" id="num">0</div><div class="s">/ 100</div></div></div>
+    <div class="rows">
+      <div class="t" id="rt">DIAGNOSTIC DE PORTEFEUILLE</div>
+      <div class="row r">CHK Note qualité pondérée</div>
+      <div class="row r">CHK Concentration &amp; secteurs</div>
+      <div class="row r">CHK Devises &amp; zones géo</div>
+      <div class="row r">CHK Éligibilité PEA</div>
+    </div>
+  </div>
+  <div class="chips"><span class="chip c"><b>30 s</b> chrono</span><span class="chip c"><b>Gratuit</b></span><span class="chip c"><b>Sans</b> inscription</span></div>
+  <div class="cta" id="cta">Faire le test → lucide.finance</div>
+  <div class="trial" id="trial">+ Lucide Premium : essai 14 jours sans carte bancaire</div>
+  <div class="foot" id="foot">
+    <div class="brand"><svg viewBox="0 0 100 100" width="64" height="64"><rect x="17" y="17" width="66" height="66" transform="rotate(45 50 50)" fill="none" stroke="#0F6E56" stroke-width="4"/><rect x="31" y="31" width="38" height="38" transform="rotate(45 50 50)" fill="none" stroke="#1D9E75" stroke-width="3"/><circle cx="50" cy="50" r="8" fill="#1D9E75"/></svg><span class="n">LUCIDE</span></div>
+    <div class="tag">ANALYSE · DÉCISION · CLARTÉ</div>
+    <div class="disc">Contenu informatif · ne constitue pas un conseil en investissement.</div>
+  </div>
+</div>
+<script>
+const CHK='<svg width="38" height="38" viewBox="0 0 24 24"><circle cx="12" cy="12" r="11" fill="#0F6E56"/><path d="M7 12.5l3.2 3.2L17 9" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+document.querySelectorAll('.r').forEach(r=>r.innerHTML=r.innerHTML.replace('CHK',CHK));
+window.DURATION=15;
+const clamp=(x)=>Math.max(0,Math.min(1,x));
+const ease=(x)=>{x=clamp(x);return 1-Math.pow(1-x,3)};
+const p=(t,a,d)=>ease((t-a)/d);
+function show(el,k,dy=40){el.style.opacity=k;el.style.transform=`translateY(${(1-k)*dy}px)`;}
+window.renderFrame=function(t){
+  show(document.getElementById('eb'),p(t,0.1,0.6));
+  document.querySelectorAll('.w').forEach((w,i)=>show(w,p(t,0.5+i*0.18,0.5),60));
+  document.getElementById('rule').style.width=(110*p(t,1.6,0.5))+'px';
+  show(document.getElementById('card'),p(t,2.0,0.6),80);
+  // jauge : remplissage puis compteur qui tourne et se fige sur "?"
+  const g=p(t,2.4,2.2), arc=document.getElementById('arc');
+  arc.style.strokeDashoffset=804*(1-0.72*g);
+  const num=document.getElementById('num');
+  if(t<2.4) num.textContent='0';
+  else if(t<4.6) num.textContent=String(Math.floor(Math.abs(Math.sin(t*7.3))*99));
+  else { num.textContent='?'; const pulse=1+0.06*Math.sin((t-4.6)*5)*Math.max(0,1-(t-4.6)/3); num.style.transform=`scale(${pulse})`; }
+  show(document.getElementById('rt'),p(t,4.4,0.5));
+  document.querySelectorAll('.r').forEach((r,i)=>{const k=p(t,4.8+i*0.55,0.45);r.style.opacity=k;r.style.transform=`translateX(${(1-k)*-50}px)`;});
+  document.querySelectorAll('.c').forEach((c,i)=>{const k=p(t,7.6+i*0.3,0.4);c.style.opacity=k;c.style.transform=`scale(${0.8+0.2*k})`;});
+  const kc=p(t,9.0,0.6), cta=document.getElementById('cta');
+  cta.style.opacity=kc; const glow=t>9.6?0.5+0.5*Math.sin((t-9.6)*3):0;
+  cta.style.transform=`scale(${0.9+0.1*kc+0.02*glow})`; cta.style.boxShadow=`0 0 ${40*glow}px rgba(29,158,117,${0.45*glow})`;
+  show(document.getElementById('trial'),p(t,9.8,0.6));
+  show(document.getElementById('foot'),p(t,10.4,0.6),20);
+  document.getElementById('deco').style.transform=`rotate(${t*1.2}deg)`;
+};
+window.renderFrame(0);
+</script></body></html>
