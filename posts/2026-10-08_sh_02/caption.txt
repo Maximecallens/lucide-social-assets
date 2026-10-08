@@ -1,18 +1,17 @@
-Le rendement du dividende, c'est ce qu'une action vous verse chaque année, en % de son prix. 💶
+Le rendement du dividende : ce qu'une action vous verse chaque année, en % de son prix. 💶
 
 Rendement = dividende annuel ÷ cours de l'action.
 
-Exemple hypothétique : une action à 100 € qui verse 4 € par an affiche un rendement de 4 %.
+Exemple hypothétique : action à 100 €, dividende de 4 € = rendement de 4 %.
 
-Le piège : si le cours tombe à 50 € et que le dividende reste à 4 €, le rendement grimpe à 8 %… seulement parce que l'action a chuté.
+Le piège : si le cours tombe à 50 €, le rendement grimpe à 8 %… juste parce que l'action a chuté.
 
-Le bon réflexe : regarder le taux de distribution (dividende ÷ bénéfice par action). 4 € versés pour 3 € de bénéfice = 133 % : le dividende n'est pas couvert par les bénéfices.
-Repères indicatifs, variables selon les secteurs :
+Le réflexe : le taux de distribution (dividende ÷ bénéfice par action). Repères indicatifs, variables selon les secteurs :
 → moins de 60 % : marge de sécurité
 → 60 à 100 % : à surveiller
 → plus de 100 % : dividende non couvert
 
-Sur Lucide, chaque action a une note qui intègre sa qualité et sa solidité financière : utile pour juger si un dividende repose sur des bases saines.
+Sur Lucide, la note de chaque action intègre sa qualité et sa solidité financière.
 
 👉 Lien en bio : lucide.finance/actions
 
