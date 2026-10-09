@@ -1,0 +1,14 @@
+{
+ "pill": "",
+ "eyebrow": "ANALYSE DE FONDS",
+ "title": "Les frais que<br>vous ne <em>voyez</em> pas",
+ "title_size": 80,
+ "middle_html": "<div class=\"vs\"><div class=\"a\"><div class=\"k\">FONDS À 1,8 % / AN</div><div style=\"font-family:'Inter Display';font-size:64px;font-weight:800;line-height:1.1;color:#fff\">18 780 €</div><div class=\"muted\" style=\"font-size:24px;margin-top:8px\">après 20 ans</div></div><div class=\"b\"><div class=\"k\">FONDS À 0,3 % / AN</div><div style=\"font-family:'Inter Display';font-size:64px;font-weight:800;line-height:1.1;color:#1D9E75\">25 060 €</div><div class=\"muted\" style=\"font-size:24px;margin-top:8px\">après 20 ans</div></div></div><div class=\"card\" style=\"margin-top:24px;padding:28px 40px;gap:30px\"><div style=\"font-family:'Inter Display';font-size:68px;font-weight:800;color:#5DCAA5;line-height:1;white-space:nowrap;flex:none\">≈ 6 280 €</div><div style=\"font-size:26px;line-height:1.35;color:#E6ECF4\">d'écart, uniquement dû aux frais<div class=\"muted\" style=\"font-size:21px;margin-top:6px\">10 000 € placés, 5 %/an avant frais. Exemple illustratif, rendement non garanti.</div></div></div>",
+ "chips": [
+  "<b>TER</b> réel",
+  "<b>SRRI</b> &amp; volatilité",
+  "<b>Perf</b> 3 ans"
+ ],
+ "cta": "Vérifier un fonds &rarr; lucide.finance/pricing",
+ "alt": "Visuel Lucide : 10 000 € placés 20 ans à 5 % par an avant frais deviennent environ 18 780 € avec 1,8 % de frais annuels contre 25 060 € avec 0,3 %, soit environ 6 280 € d'écart (exemple illustratif)."
+}

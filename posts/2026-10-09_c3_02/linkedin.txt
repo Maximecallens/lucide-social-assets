@@ -1,0 +1,29 @@
+1,5 point de frais en plus par an, ça paraît peu. Sur 20 ans, ça peut représenter plus de 6 000 €.
+
+Les frais d'un fonds ne vous sont jamais facturés : ils sont retirés chaque année de la performance, sans ligne visible sur votre relevé.
+
+Ce qu'il faut regarder avant de garder ou de choisir un fonds (OPCVM, ETF, unité de compte d'assurance-vie) :
+• Les frais courants, prélevés chaque année : ils figurent dans le document d'informations clés (DIC).
+• Les frais d'entrée, parfois négociables.
+• Les rétrocessions : une partie des frais de gestion peut être reversée au distributeur qui vous a vendu le fonds.
+
+Un exemple simple. 10 000 € placés 20 ans, avec 5 % par an avant frais :
+→ avec 0,3 % de frais annuels : environ 25 060 €
+→ avec 1,8 % de frais annuels : environ 18 780 €
+Soit environ 6 280 € d'écart, uniquement dû aux frais. (Exemple illustratif, rendement non garanti.)
+
+C'est pour ça que Lucide analyse un fonds à partir de son code ISIN :
+→ les frais réels (TER) affichés clairement
+→ la performance sur 3 ans, la volatilité et le niveau de risque (SRRI)
+→ une note sur 5 dimensions : performance, risque, composition, coûts, gérant
+→ un verdict rédigé en français clair, exportable en PDF
+
+L'analyse de fonds est incluse dès le plan Base (14 €/mois), et dans l'essai Premium de 14 jours, sans carte bancaire.
+
+👉 Vérifiez les fonds de votre assurance-vie : lucide.finance/pricing
+
+Vous connaissez les frais courants de chacun de vos fonds, ou c'est encore flou ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement.
+
+#AssuranceVie #FraisDeGestion #ETF #Epargne #FinancePersonnelle
