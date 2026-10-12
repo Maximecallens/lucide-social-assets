@@ -1,0 +1,10 @@
+TITLE: Lucide est disponible dans Claude : les notes d'actions en langage naturel #Shorts
+DESCRIPTION:
+Lucide Finance est désormais disponible dans l'annuaire des connecteurs Claude. Posez votre question (« Quelle est la note Lucide de LVMH ? ») et Claude vous répond avec la note globale, le Core Quality, le Potentiel IA et la Tendance.
+
+Dès le compte gratuit, connexion sécurisée en lecture seule. Comparaison d'actions avec Base, screener avec Premium.
+
+Mode d'emploi : https://lucide.finance/integrations/claude-chatgpt
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement.
+TAGS: lucide,lucide finance,claude,connecteur claude,intelligence artificielle,bourse,investissement,analyse action,pea,actions

@@ -1,0 +1,25 @@
+Lucide est désormais disponible dans l'annuaire des connecteurs Claude.
+
+Concrètement, vous pouvez maintenant poser vos questions sur une action directement dans Claude, en langage naturel, et obtenir les notes Lucide en réponse.
+
+« Quelle est la note Lucide de LVMH ? »
+→ Claude interroge Lucide et vous répond : note globale 50/100, Core Quality 64, Potentiel IA 50, Tendance 13 (baisse). Profil : qualité élevée, tendance baissière. (Données au 12/10/2026.)
+
+Pas de copier-coller, pas d'onglet à ouvrir : les mêmes indicateurs que sur lucide.finance, calculés avec la même méthode, là où vous travaillez déjà.
+
+Ce que vous pouvez demander, selon votre plan :
+→ Dès le compte gratuit : note Core Quality, Potentiel IA, Tendance, note globale et votre portefeuille Lucide
+→ Avec Base : la comparaison de 2 à 3 actions et le détail de la Tendance
+→ Avec Premium : le screener, en langage naturel
+
+La connexion est sécurisée et en lecture seule : Claude consulte vos données Lucide, il ne modifie rien et ne passe aucun ordre.
+
+Pour l'activer : ouvrez l'annuaire des connecteurs dans Claude, cherchez « Lucide Finance », cliquez sur Connecter puis identifiez-vous avec votre compte Lucide (ou créez-en un, c'est gratuit).
+
+👉 Le mode d'emploi pas à pas : lucide.finance/integrations/claude-chatgpt
+
+Et vous, quelle action demanderiez-vous en premier à Claude ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement.
+
+#Investissement #Bourse #IA #Claude #FinancePersonnelle
