@@ -1,19 +1,17 @@
 Diversifier, ce n'est pas multiplier les lignes : c'est répartir ses risques. 🧩
 
-Un portefeuille bien diversifié contient des placements qui ne réagissent pas aux mêmes événements : secteurs, devises et zones géographiques différents.
-
-Exemple hypothétique : 5 lignes à 20 % chacune. Une banque française, un assureur français, un ETF banques zone euro, une banque espagnole et un éditeur de logiciels américain.
-Sur le papier, 5 placements. En réalité, 80 % du portefeuille repose sur un seul secteur, la finance en euros.
+Exemple hypothétique : 5 lignes à 20 %. Une banque française, un assureur français, un ETF banques zone euro, une banque espagnole et un éditeur de logiciels américain.
+5 placements… mais 80 % du portefeuille sur un seul secteur, la finance en euros.
 
 4 questions à se poser :
-→ mes lignes sont-elles toutes dans le même secteur ?
-→ dans la même devise ?
-→ dans la même zone géographique ?
-→ une seule ligne pèse-t-elle trop lourd ?
+→ même secteur ?
+→ même devise ?
+→ même zone géographique ?
+→ une ligne pèse-t-elle trop lourd ?
 
 Repère indicatif : 10 actions du même secteur restent un seul pari.
 
-Sur Lucide, le diagnostic de portefeuille gratuit et sans inscription calcule votre note globale et montre votre concentration par secteur, devise et zone.
+Le diagnostic de portefeuille Lucide, gratuit et sans inscription, montre votre concentration par secteur, devise et zone.
 
 👉 Lien en bio : lucide.finance/diagnostic-portefeuille
 
@@ -21,4 +19,4 @@ Sur Lucide, le diagnostic de portefeuille gratuit et sans inscription calcule vo
 
 Contenu informatif, ne constitue pas un conseil en investissement.
 
-#bourse #investissement #diversification #portefeuille #gestiondeportefeuille #actions #investirenbourse #financepersonnelle #pea #lucidefinance
+#bourse #investissement #diversification #portefeuille #actions #investirenbourse #financepersonnelle #pea #lucidefinance
