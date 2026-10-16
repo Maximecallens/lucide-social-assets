@@ -1,0 +1,120 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1920px;background:#0A1628;font-family:Inter,sans-serif;color:#fff;position:relative;overflow:hidden}
+.deco{position:absolute}
+.wrap{position:absolute;inset:230px 80px 250px 80px;display:flex;flex-direction:column}
+.eyebrow{display:flex;align-items:center;gap:24px;color:#5DCAA5;font-size:28px;font-weight:600;letter-spacing:1.5px}
+.pill{border:2px solid #1D9E75;border-radius:999px;padding:8px 22px;font-size:24px;letter-spacing:2px}
+h1{font-family:'Inter Display',Inter,sans-serif;font-weight:800;font-size:86px;line-height:1.04;letter-spacing:-2.5px;margin-top:44px}
+h1 span{display:inline-block}
+h1 em{font-style:normal;color:#1D9E75}
+.rule{height:7px;background:#1D9E75;border-radius:4px;margin-top:36px}
+.card{position:relative;margin-top:44px;background:#0F2036;border:2px solid #1C3550;border-radius:32px;padding:34px 36px 26px}
+.top{display:flex;justify-content:space-between;align-items:flex-end}
+.yr{font-size:26px;letter-spacing:2.5px;color:#5DCAA5;font-weight:600}
+.big{font-family:'Inter Display';font-size:84px;font-weight:800;line-height:1;margin-top:10px;font-variant-numeric:tabular-nums}
+.leg{display:flex;flex-direction:column;gap:12px;font-size:26px;color:#A9B6C8;text-align:right}
+.leg b{color:#fff;font-weight:600;font-variant-numeric:tabular-nums}
+.sw{display:inline-block;width:20px;height:20px;border-radius:5px;margin-right:12px;vertical-align:-2px}
+svg text{font-family:Inter}
+.callout{position:absolute;left:112px;top:196px;width:430px;background:#0A1628;border:2px solid #1C3550;border-left:7px solid #1D9E75;border-radius:14px;padding:20px 24px;font-size:28px;font-weight:600;line-height:1.3}
+.callout em{font-style:normal;color:#5DCAA5}
+.end{position:absolute;left:80px;right:80px;top:1268px;display:flex;flex-direction:column;align-items:center}
+.chips{display:flex;gap:16px;justify-content:center}
+.chip{background:#11283f;border:1.5px solid #1C3550;border-radius:999px;padding:14px 28px;font-size:30px;color:#A9B6C8;font-weight:500}
+.chip b{color:#fff;font-weight:600}
+.cta{margin-top:30px;border:3px solid #1D9E75;background:rgba(29,158,117,.14);color:#5DCAA5;border-radius:20px;padding:24px 40px;font-size:40px;font-weight:700;text-align:center}
+.cta small{display:block;font-size:28px;color:#A9B6C8;font-weight:500;margin-top:8px}
+.foot{position:absolute;left:0;right:0;top:1526px;display:flex;flex-direction:column;align-items:center}
+.brand{display:flex;align-items:center;gap:18px}.brand .n{font-size:40px;font-weight:700;letter-spacing:1px}
+.disc{color:#A9B6C8;font-size:20px;margin-top:12px;text-align:center;line-height:1.4}
+</style></head><body>
+<svg class="deco" id="deco" viewBox="0 0 400 400" width="700" height="700" style="right:-320px;top:-200px">
+<rect x="58" y="58" width="284" height="284" transform="rotate(45 200 200)" fill="none" stroke="#123a44" stroke-width="2"/>
+<rect x="108" y="108" width="184" height="184" transform="rotate(45 200 200)" fill="none" stroke="#123a44" stroke-width="2"/></svg>
+<div class="wrap">
+  <div class="eyebrow" id="eb">
+    <svg viewBox="0 0 100 100" width="78" height="78"><rect x="17" y="17" width="66" height="66" transform="rotate(45 50 50)" fill="none" stroke="#0F6E56" stroke-width="4"/><rect x="31" y="31" width="38" height="38" transform="rotate(45 50 50)" fill="none" stroke="#1D9E75" stroke-width="3"/><circle cx="50" cy="50" r="8" fill="#1D9E75"/></svg>
+    <span class="pill">PÉDAGOGIE</span><span>INTÉRÊTS COMPOSÉS</span></div>
+  <h1><span class="w">100&nbsp;€</span> <span class="w">par</span> <span class="w">mois,</span><br><span class="w">ça</span> <span class="w">devient</span> <span class="w"><em>combien</em>&nbsp;?</span></h1>
+  <div class="rule" id="rule"></div>
+  <div class="card" id="card">
+    <div class="top">
+      <div><div class="yr" id="yr">ANNÉE 0</div><div class="big" id="big">0 €</div></div>
+      <div class="leg">
+        <div><span class="sw" style="background:#0F6E56"></span>Versé : <b id="dep">0 €</b></div>
+        <div><span class="sw" style="background:#5DCAA5;opacity:.7"></span>Intérêts : <b id="int">0 €</b></div>
+      </div>
+    </div>
+    <svg width="904" height="400" overflow="visible" viewBox="0 0 904 400" style="margin-top:22px;display:block">
+      <g id="grid"></g>
+      <path id="aDep" fill="#0F6E56" opacity="1"/>
+      <path id="aInt" fill="#5DCAA5" opacity=".38"/>
+      <path id="lTot" fill="none" stroke="#5DCAA5" stroke-width="5" stroke-linejoin="round"/>
+      <g id="marks"></g>
+    </svg>
+    <div class="callout" id="callout">Vers la <em>26ᵉ année</em>, les intérêts dépassent le total de vos versements.</div>
+  </div>
+</div>
+<div class="end" id="end">
+  <div class="chips"><span class="chip c"><b>Gratuit</b></span><span class="chip c"><b>Sans</b> inscription</span><span class="chip c">Vos <b>propres</b> chiffres</span></div>
+  <div class="cta" id="cta">Simulez votre cas → lucide.finance<small>Calculateur d'intérêts composés · Simulateur DCA</small></div>
+</div>
+<div class="foot" id="foot">
+  <div class="brand"><svg viewBox="0 0 100 100" width="58" height="58"><rect x="17" y="17" width="66" height="66" transform="rotate(45 50 50)" fill="none" stroke="#0F6E56" stroke-width="4"/><rect x="31" y="31" width="38" height="38" transform="rotate(45 50 50)" fill="none" stroke="#1D9E75" stroke-width="3"/><circle cx="50" cy="50" r="8" fill="#1D9E75"/></svg><span class="n">LUCIDE</span></div>
+  <div class="disc">Exemple illustratif : 100 €/mois, 5 %/an hypothétique, sans frais ni fiscalité.<br>Rendement non garanti · ne constitue pas un conseil en investissement.</div>
+</div>
+<script>
+window.DURATION=22;
+const clamp=(x)=>Math.max(0,Math.min(1,x));
+const ease=(x)=>{x=clamp(x);return 1-Math.pow(1-x,3)};
+const inout=(x)=>{x=clamp(x);return x<.5?2*x*x:1-Math.pow(-2*x+2,2)/2};
+const p=(t,a,d)=>ease((t-a)/d);
+function show(el,k,dy=40){el.style.opacity=k;el.style.transform=`translateY(${(1-k)*dy}px)`;}
+const r=Math.pow(1.05,1/12)-1;
+const fv=(m)=>m<=0?0:100*(Math.pow(1+r,m)-1)/r;
+const eur=(v)=>Math.round(v).toString().replace(/\B(?=(\d{3})+(?!\d))/g,' ')+' €';
+// zone graphique
+const X0=70,X1=870,Y0=360,Y1=70,VMAX=90000;
+const X=(y)=>X0+(X1-X0)*y/30, Y=(v)=>Y0-(Y0-Y1)*v/VMAX;
+let g='';
+[0,20000,40000,60000,80000].forEach(v=>{g+=`<line x1="${X0}" x2="${X1}" y1="${Y(v)}" y2="${Y(v)}" stroke="#1C3550" stroke-width="1.5"/><text x="${X0-12}" y="${Y(v)+8}" fill="#A9B6C8" font-size="22" text-anchor="end">${v/1000}k</text>`});
+[0,10,20,30].forEach(y=>{g+=`<text x="${X(y)}" y="${Y0+34}" fill="#A9B6C8" font-size="22" text-anchor="${y==0?'start':y==30?'end':'middle'}">${y} ans</text>`});
+document.getElementById('grid').innerHTML=g;
+const MS=[10,20,30];
+let mk='';
+MS.forEach((y,i)=>{const v=fv(12*y),cx=X(y),cy=Y(v);
+ const bx=i==0?cx-95:i==1?cx+18:cx-208, by=i==0?cy-74:i==1?cy+18:cy+64;
+ mk+=`<g id="m${i}"><line x1="${cx}" x2="${cx}" y1="${cy}" y2="${Y0}" stroke="#5DCAA5" stroke-width="2" stroke-dasharray="6 8"/><circle cx="${cx}" cy="${cy}" r="11" fill="#0A1628" stroke="#5DCAA5" stroke-width="5"/><rect x="${bx}" y="${by}" width="190" height="48" rx="12" fill="#0A1628" stroke="#1D9E75" stroke-width="2"/><text x="${bx+95}" y="${by+33}" fill="#fff" font-size="26" font-weight="700" text-anchor="middle">${eur(v)}</text></g>`});
+document.getElementById('marks').innerHTML=mk;
+function paths(ye){
+  const N=Math.max(1,Math.round(ye*12));let top=[],dep=[];
+  for(let m=0;m<=N;m++){const y=m/12;top.push([X(y),Y(fv(m))]);dep.push([X(y),Y(100*m)]);}
+  const L=(a)=>a.map(q=>q[0].toFixed(1)+','+q[1].toFixed(1)).join(' L');
+  const xe=X(N/12).toFixed(1);
+  document.getElementById('aDep').setAttribute('d',`M${X0},${Y0} L${L(dep)} L${xe},${Y0} Z`);
+  document.getElementById('aInt').setAttribute('d',`M${L(dep)} L${L(top.slice().reverse())} Z`);
+  document.getElementById('lTot').setAttribute('d',`M${L(top)}`);
+  return N;
+}
+window.renderFrame=function(t){
+  show(document.getElementById('eb'),p(t,0.1,0.5));
+  document.querySelectorAll('.w').forEach((w,i)=>show(w,p(t,0.4+i*0.15,0.45),60));
+  document.getElementById('rule').style.width=(110*p(t,1.4,0.5))+'px';
+  show(document.getElementById('card'),p(t,2.2,0.6),80);
+  const ye=30*inout((t-3.0)/9.5);
+  const N=paths(Math.max(ye,0.0001));
+  const m=ye<=0?0:N;
+  document.getElementById('yr').textContent='ANNÉE '+Math.floor(m/12+1e-9);
+  document.getElementById('big').textContent=eur(fv(m));
+  document.getElementById('dep').textContent=eur(100*m);
+  document.getElementById('int').textContent=eur(fv(m)-100*m);
+  MS.forEach((y,i)=>{const k=ease((ye-y+0.6)/1.2);const el=document.getElementById('m'+i);el.style.opacity=ye>=y-0.6?k:0;});
+  show(document.getElementById('callout'),p(t,12.9,0.6),30);
+  document.querySelectorAll('.c').forEach((c,i)=>{const k=p(t,15.6+i*0.25,0.4);c.style.opacity=k;c.style.transform=`scale(${0.8+0.2*k})`;});
+  const kc=p(t,16.6,0.6),cta=document.getElementById('cta');cta.style.opacity=kc;cta.style.transform=`scale(${0.9+0.1*kc})`;
+  show(document.getElementById('foot'),p(t,0.2,0.6),20);
+  document.getElementById('deco').style.transform=`rotate(${Math.min(t,17.5)*1.5}deg)`;
+};
+window.renderFrame(0);
+</script></body></html>

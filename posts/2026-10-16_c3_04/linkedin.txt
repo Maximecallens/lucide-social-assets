@@ -1,0 +1,31 @@
+100 € par mois pendant 30 ans, c'est 36 000 € versés. Avec 5 % par an, cela peut devenir plus de 81 000 €.
+
+La différence ne vient pas d'un coup de génie. Elle vient du temps.
+
+Les intérêts composés, c'est simple à énoncer : vos gains produisent à leur tour des gains. Mais c'est difficile à se représenter, parce que l'effet est presque invisible au début, puis s'accélère.
+
+Un exemple, avec 100 € versés chaque mois et un rendement hypothétique de 5 % par an, sans frais ni fiscalité :
+• après 10 ans : environ 15 436 €, dont 12 000 € versés
+• après 20 ans : environ 40 580 €, dont 24 000 € versés
+• après 30 ans : environ 81 538 €, dont 36 000 € versés
+(Exemple illustratif, rendement non garanti.)
+
+Le point le plus frappant : vers la 26e année, les intérêts accumulés dépassent le total de vos versements. Les dix dernières années pèsent plus lourd que les vingt premières.
+
+Ce que cela implique, concrètement :
+→ commencer tôt compte souvent plus que verser beaucoup
+→ la régularité des versements fait une grande partie du travail
+→ chaque point de frais annuel freine cet effet, année après année
+→ un rendement n'est jamais garanti : les marchés baissent aussi, parfois longtemps
+
+Pour faire le calcul avec vos propres chiffres, Lucide met à disposition deux outils gratuits, sans inscription :
+→ le calculateur d'intérêts composés : capital de départ, versements réguliers, rendement, durée
+→ le simulateur DCA : capital final, comparaison avec un investissement en une fois et impact réel des frais
+
+👉 Faites votre simulation : lucide.finance/outils/calculateur-interets-composes
+
+Et vous, vous avez commencé à investir à quel âge ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement.
+
+#IntérêtsComposés #Epargne #Investissement #FinancePersonnelle #Bourse
