@@ -19,7 +19,7 @@ Ce que cela implique, concrètement :
 → un rendement n'est jamais garanti : les marchés baissent aussi, parfois longtemps
 
 Pour faire le calcul avec vos propres chiffres, Lucide met à disposition deux outils gratuits, sans inscription :
-→ le calculateur d'intérêts composés : capital de départ, versements réguliers, rendement, durée
+→ le calculateur d'intérêts composés : la croissance de votre capital sur le long terme, avec apports réguliers et rendement composé
 → le simulateur DCA : capital final, comparaison avec un investissement en une fois et impact réel des frais
 
 👉 Faites votre simulation : lucide.finance/outils/calculateur-interets-composes
