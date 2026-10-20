@@ -1,0 +1,24 @@
+Une IA peut vous expliquer la bourse en détail. Sauf ce qui se passe dans votre portefeuille.
+
+Claude ou ChatGPT ne savent pas ce que vous détenez. Et quand vous leur demandez un chiffre sur une action, la réponse peut reposer sur des données datées.
+
+Pour interroger utilement une IA sur vos placements, trois réflexes :
+• Lui fournir des données à jour et sourcées, plutôt que de compter sur sa mémoire.
+• Poser des questions précises : « Quelle ligne pèse le plus ? », « Quelles positions ont la note la plus faible ? », « Dans quelle tendance est cette action ? »
+• Lui demander la date des données utilisées.
+
+C'est ce que permet Lucide dans Claude et ChatGPT :
+→ vous connectez votre compte Lucide en quelques clics, par connexion OAuth (aucun mot de passe partagé avec l'assistant)
+→ l'assistant lit vos notes Lucide (Core Quality, Potentiel IA, tendance de cours, avec leur date) et votre portefeuille
+→ vous posez vos questions en langage naturel : « Montre mon portefeuille Lucide », « Compare ASML, Apple et Nvidia »
+→ en lecture seule : l'assistant consulte, il ne modifie jamais votre compte
+
+Disponible dès le compte gratuit (notes sur 2 valeurs par mois, valeurs du portefeuille et de la watchlist hors quota). La comparaison arrive avec le plan Base, le screener avec Premium, et l'essai Premium de 14 jours se fait sans carte bancaire.
+
+👉 Le guide pour le connecter : lucide.finance/integrations/claude-chatgpt
+
+Quelle est la première question que vous poseriez à votre portefeuille ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement.
+
+#IntelligenceArtificielle #ChatGPT #Claude #Investissement #Bourse

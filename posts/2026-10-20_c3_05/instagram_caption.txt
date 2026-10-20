@@ -1,0 +1,17 @@
+Une IA peut tout vous expliquer sur la bourse. Sauf votre portefeuille. 🤖
+
+Claude et ChatGPT ne savent pas ce que vous détenez. Avec Lucide, ils peuvent le lire :
+→ vos notes Lucide (Core Quality, Potentiel IA, tendance de cours)
+→ votre portefeuille et sa répartition
+→ des questions en langage naturel : « Quelles lignes ont la note la plus faible ? »
+
+🔒 Connexion OAuth, en lecture seule : l'assistant consulte, il ne modifie jamais votre compte.
+✅ Dès le compte gratuit. Comparaison avec Base, screener avec Premium.
+
+👉 Lien en bio : lucide.finance/integrations/claude-chatgpt
+
+Quelle question poseriez-vous en premier ? 👇
+
+Contenu informatif, ne constitue pas un conseil en investissement.
+
+#bourse #investissement #intelligenceartificielle #chatgpt #claude #portefeuille #actions #financepersonnelle #pea #lucidefinance
