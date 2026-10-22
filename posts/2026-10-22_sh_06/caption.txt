@@ -1,4 +1,4 @@
-Le free cash flow : le cash qui reste vraiment, une fois l'entreprise payée et entretenue. 💶
+Le free cash flow : le cash qui reste vraiment, une fois l'entreprise entretenue. 💶
 
 FCF = cash généré par l'activité − investissements (usines, matériel…).
 
@@ -7,14 +7,13 @@ Exemple hypothétique, en millions d'€ :
 → + 25 de charges sans sortie de cash
 → − 35 bloqués dans les stocks et les factures clients
 → − 60 d'investissements
-= 30 de free cash flow. Sur 100 de bénéfice, seulement 30 de cash disponible.
+= 30 de free cash flow.
 
 Repères indicatifs :
-→ conversion FCF ÷ bénéfice au-delà de 80 % sur plusieurs années : le bénéfice se transforme bien en cash
-→ regarder la régularité sur 5 ans, pas une seule année
+→ conversion FCF ÷ bénéfice au-delà de 80 %, sur 5 ans plutôt qu'une seule année
 → un FCF faible peut aussi venir d'investissements de croissance
 
-Sur la fiche de chaque action Lucide, le prix rapporté au FCF (P/FCF) est comparé à sa médiane sur 10 ans.
+Sur chaque fiche action Lucide, le P/FCF est comparé à sa médiane 10 ans.
 
 👉 Lien en bio : lucide.finance/actions
 
