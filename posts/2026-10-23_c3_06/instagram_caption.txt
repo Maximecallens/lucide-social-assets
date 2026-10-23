@@ -1,6 +1,6 @@
 Bonne entreprise ne veut pas dire bon moment de cours. 📈📉
 
-Le repère de base : la moyenne mobile 200 jours, la moyenne des 200 dernières clôtures. Elle montre la tendance de fond.
+Le repère de base : la moyenne mobile 200 jours, qui montre la tendance de fond.
 
 Les 5 phases d'un cours (définitions simplifiées) :
 1️⃣ Hausse : au-dessus d'une moyenne qui monte
