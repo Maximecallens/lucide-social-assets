@@ -1,0 +1,28 @@
+Une excellente entreprise peut avoir un cours qui décroche depuis six mois.
+
+La qualité d'une société et le comportement de son cours sont deux choses différentes. Les confondre est l'une des erreurs les plus fréquentes.
+
+Pour situer un cours, un repère simple : la moyenne mobile 200 jours, soit la moyenne des cours de clôture des 200 dernières séances (environ 10 mois de bourse). Elle lisse le bruit et montre la tendance de fond.
+
+En la croisant avec le mouvement récent, on distingue 5 phases (définitions simplifiées) :
+• Hausse : le cours progresse au-dessus d'une moyenne elle-même orientée à la hausse.
+• Pullback : un repli de court terme, mais la tendance de fond reste haussière.
+• Essoufflement : la hausse ralentit, le cours plafonne et se rapproche de sa moyenne.
+• Baisse : le cours passe sous une moyenne qui se retourne, et y reste.
+• Rebond : le cours remonte, mais à l'intérieur d'une tendance de fond toujours baissière.
+
+Aucune phase ne dit quoi faire. Elle dit dans quel contexte vous regardez une action.
+
+Sur Lucide, chaque action suivie a sa Tendance de cours, calculée chaque jour et séparée de son score qualité :
+→ un état parmi les 5 et un score, visibles dès le compte gratuit
+→ un calcul sur les cours de clôture ajustés : moyennes mobiles 20, 50 et 200 jours, momentum, force relative face au marché et au secteur, révisions d'analystes
+→ le détail des indicateurs à partir du plan Base
+→ une note globale qui combine qualité de l'entreprise (50 %), Potentiel IA (30 %) et Tendance (20 %)
+
+👉 Consultez la tendance d'une action : lucide.finance/actions
+
+Et vous, vous regardez d'abord la qualité de l'entreprise, ou d'abord la courbe ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement.
+
+#Bourse #Actions #AnalyseTechnique #Investissement #FinancePersonnelle
