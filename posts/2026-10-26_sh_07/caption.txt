@@ -1,7 +1,7 @@
 L'endettement : en combien d'années une entreprise peut-elle rembourser sa dette ? 🏦
 
 Dette nette = dettes financières − trésorerie.
-Ratio = dette nette ÷ EBITDA (résultat d'exploitation avant amortissements).
+Ratio = dette nette ÷ EBITDA annuel.
 
 Exemple hypothétique, en millions d'€ :
 → 500 de dette − 100 de trésorerie = 400 de dette nette
