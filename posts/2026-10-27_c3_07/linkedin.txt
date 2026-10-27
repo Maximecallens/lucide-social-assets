@@ -1,0 +1,30 @@
+Air Liquide obtient 60/100 sur Lucide. Le chiffre seul ne dit presque rien.
+
+Une note n'est utile que si l'on peut la décomposer. Alors voici celle-ci, ouverte pièce par pièce, avec les données Lucide du 27 octobre 2026.
+
+Étape 1, la qualité fondamentale (Core Quality) : 49/100, calculée sur 13 critères financiers regroupés en 5 dimensions.
+• Qualité et rentabilité : 23/30
+• Croissance : 10/20
+• Solidité : 6/15
+• Valorisation : 7/25
+• Allocation du capital : 3/10
+
+La valorisation pèse lourd : un P/E de 31,5x, contre 19,3x en médiane sur 10 ans. Une entreprise solide peut donc obtenir une note moyenne simplement parce que son action se paie plus cher que d'habitude.
+
+Étape 2, la note globale : la synthèse de trois indicateurs.
+→ Core Quality 49 × 50 % = 24,5
+→ Potentiel IA 68 × 30 % = 20,4
+→ Tendance du cours (en hausse) 76 × 20 % = 15,2
+Total : 60,1, arrondi à 60/100. La note globale est aussi plafonnée à 15 points au-dessus du Core Quality, pour qu'une tendance ou un potentiel ne masque jamais des fondamentaux fragiles.
+
+La leçon vaut pour n'importe quelle note, chez Lucide ou ailleurs : avant de la comparer, demandez-vous de quoi elle est faite.
+
+Sur Lucide, chaque fiche action affiche gratuitement la note globale, ses trois composantes et la date de mise à jour. Le détail des 13 critères est inclus dans Premium, à essayer 14 jours sans carte bancaire.
+
+👉 Voir la fiche : lucide.finance/actions/air-liquide
+
+Quelle action aimeriez-vous voir décomposée de la même façon ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement. Une note décrit une entreprise à une date donnée, elle ne recommande ni achat ni vente.
+
+#Bourse #AnalyseFondamentale #Investissement #Actions #FinancePersonnelle
