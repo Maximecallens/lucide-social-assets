@@ -1,19 +1,19 @@
 La règle des 4 % : combien faut-il pour vivre de ses placements ? 🎯
 
-Le principe : retirer chaque année 4 % de son capital investi pour couvrir ses dépenses. Comme 1 ÷ 4 % = 25, le capital visé ≈ 25 × vos dépenses annuelles.
+Retirer 4 % par an de son capital investi pour vivre. Comme 1 ÷ 4 % = 25 : capital visé ≈ 25 × dépenses annuelles.
 
 Exemple hypothétique : 2 000 € de dépenses par mois
 → 24 000 € par an
 → × 25 = 600 000 € de capital visé
 
-Repères indicatifs, pour 24 000 €/an :
+Repères indicatifs (24 000 €/an) :
 → retrait de 4 % : 600 000 €
 → retrait de 3,5 % : ≈ 685 700 €
 → retrait de 3 % : 800 000 €
 
-C'est une règle empirique tirée de données américaines, pas une garantie : inflation, fiscalité et krachs en début de retraite peuvent la mettre à mal.
+Règle empirique américaine, pas une garantie : inflation, fiscalité et krachs peuvent la mettre à mal.
 
-Sur Lucide, le simulateur d'indépendance financière (gratuit, sans inscription) calcule votre capital cible et le délai pour l'atteindre.
+Le simulateur gratuit de Lucide calcule votre capital cible et le délai pour l'atteindre.
 
 👉 Lien en bio : lucide.finance/outils/simulateur-independance-financiere
 
@@ -21,4 +21,4 @@ Sur Lucide, le simulateur d'indépendance financière (gratuit, sans inscription
 
 Contenu informatif, ne constitue pas un conseil en investissement.
 
-#bourse #investissement #independancefinanciere #fire #regledes4pourcent #rentier #epargne #financepersonnelle #investirenbourse #lucidefinance
+#bourse #investissement #independancefinanciere #fire #regledes4pourcent #epargne #financepersonnelle #lucidefinance
