@@ -1,0 +1,10 @@
+{
+ "pill": "",
+ "eyebrow": "SYNTHÈSE IA · EXPERT / SIMPLIFIÉ",
+ "title": "La même analyse,<br>à <em>votre</em> niveau",
+ "title_size": 82,
+ "middle_html": "<div class=\"card col\" style=\"padding:28px 36px;gap:18px;width:100%\"><div style=\"display:flex;width:100%;align-items:center;justify-content:space-between\"><div class=\"t\" style=\"margin:0\">UNE MÊME ANALYSE, DEUX LECTURES</div><div style=\"font-size:20px;color:#A9B6C8\">exemple illustratif</div></div><div class=\"vs\"><div class=\"a\" style=\"padding:26px 28px;font-size:27px\"><div class=\"k\">EXPERT</div>ROIC de <b>18&nbsp;%</b> sur 5&nbsp;ans, marge EBIT stable, dette nette/EBITDA à <b>0,8x</b>.</div><div class=\"b\" style=\"padding:26px 28px;font-size:27px\"><div class=\"k\">SIMPLIFIÉ</div>Pour <b>100&nbsp;€</b> investis, l'entreprise en dégage environ <b>18</b> par an. Ses marges tiennent, et sa dette pèse moins d'un an de résultat.</div></div><div class=\"muted\" style=\"font-size:23px\">Mêmes données · même verdict · <span class=\"green\">inclus dès le compte gratuit</span></div></div>",
+ "chips": [],
+ "cta": "Tester les deux modes &rarr; lucide.finance/pricing",
+ "alt": "Visuel Lucide : une même analyse d'action en deux lectures. Version Expert : ROIC de 18 % sur 5 ans, marge EBIT stable, dette nette/EBITDA à 0,8x. Version Simplifiée : pour 100 € investis, l'entreprise en dégage environ 18 par an, ses marges tiennent et sa dette pèse moins d'un an de résultat. Exemple illustratif."
+}
