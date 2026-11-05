@@ -1,10 +1,10 @@
 Le moat : ce qui protège les profits d'une entreprise face à la concurrence. 🏰
 
-Le mot vient des « douves » autour d'un château. Un avantage concurrentiel durable peut venir de 5 sources : la marque, les coûts de changement, l'effet de réseau, des coûts plus bas ou les brevets.
+Les « douves » du château : marque, coûts de changement, effet de réseau, coûts plus bas ou brevets.
 
 Exemple hypothétique, ROIC sur 10 ans :
 → avec moat : 20 % la 1re année, toujours 20 % la 10e
-→ sans moat : 20 % au départ, 8 % la 10e année, grignoté par la concurrence
+→ sans moat : 20 % puis 8 %, grignoté par la concurrence
 
 Repères indicatifs, un moat se voit dans les chiffres :
 → un ROIC élevé (souvent > 15 %)
