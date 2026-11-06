@@ -1,0 +1,31 @@
+6 000 € à investir : tout d'un coup, ou 500 € par mois pendant un an ?
+
+La réponse honnête : aucune des deux méthodes ne gagne à tous les coups.
+
+Prenons un parcours de marché hypothétique sur 12 mois : une hausse de +12 %, puis une chute jusqu'à −18 %, puis une reprise pour finir à +8 %. Même somme, deux méthodes (sans frais, la part non encore investie reste en liquidités non rémunérées) :
+• Tout d'un coup : 6 000 € deviennent 6 480 €, avec un point bas à 4 920 € (−1 080 €)
+• 500 € par mois (DCA) : 6 653 € à la fin, avec un point bas à 5 345 € (−655 €)
+
+Pourquoi ? Pendant la baisse, chaque versement achète plus de parts. Le prix moyen d'achat descend à 97,40 au lieu de 100.
+
+Mais si le marché monte tout du long (de 100 à 112), le résultat s'inverse : 6 720 € pour le versement unique, 6 377 € pour le DCA. L'argent investi plus tôt travaille plus longtemps.
+(Exemple illustratif, rendement non garanti.)
+
+Ce qu'il faut retenir :
+→ le DCA ne bat pas toujours le versement unique
+→ il réduit le risque d'investir tout au mauvais moment
+→ il rend les baisses plus supportables, donc on tient mieux dans la durée
+→ il colle au rythme réel de votre épargne, mois après mois
+
+Pour faire le calcul avec vos propres chiffres, le simulateur DCA de Lucide est gratuit et sans inscription :
+→ capital final selon votre versement, votre durée et votre rendement hypothétique
+→ comparaison directe avec un investissement en une seule fois
+→ coût réel des frais sur toute la période
+
+👉 Faites votre simulation : lucide.finance/outils/simulateur-dca
+
+Et vous : plutôt versement programmé, ou tout d'un coup quand vous avez une somme à placer ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement.
+
+#DCA #Investissement #Bourse #Epargne #FinancePersonnelle

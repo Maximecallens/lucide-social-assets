@@ -1,0 +1,120 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1920px;background:#0A1628;font-family:Inter,sans-serif;color:#fff;position:relative;overflow:hidden}
+.deco{position:absolute}
+.wrap{position:absolute;left:80px;right:80px;top:236px;display:flex;flex-direction:column}
+.eyebrow{display:flex;align-items:center;gap:24px;color:#5DCAA5;font-size:28px;font-weight:600;letter-spacing:1.5px}
+.pill{border:2px solid #1D9E75;border-radius:999px;padding:8px 22px;font-size:24px;letter-spacing:2px}
+h1{font-family:'Inter Display',Inter,sans-serif;font-weight:800;font-size:76px;line-height:1.05;letter-spacing:-2px;margin-top:34px}
+h1 span{display:inline-block}
+h1 em{font-style:normal;color:#1D9E75}
+.rule{height:7px;background:#1D9E75;border-radius:4px;margin-top:30px}
+.card{position:relative;margin-top:34px;background:#0F2036;border:2px solid #1C3550;border-radius:32px;padding:28px 36px 24px}
+.top{display:flex;justify-content:space-between;align-items:flex-start}
+.yr{font-size:26px;letter-spacing:2.5px;color:#5DCAA5;font-weight:600}
+.mk{font-size:30px;color:#A9B6C8;margin-top:12px;font-variant-numeric:tabular-nums}
+.mk b{color:#fff;font-weight:700}
+.leg{display:flex;flex-direction:column;gap:10px;font-size:27px;color:#A9B6C8;text-align:right}
+.leg b{color:#fff;font-weight:700;font-variant-numeric:tabular-nums;display:inline-block;min-width:130px}
+.sw{display:inline-block;width:30px;height:7px;border-radius:4px;margin-right:12px;vertical-align:6px}
+svg text{font-family:Inter}
+.avg{margin-top:12px;border-top:1.5px solid #1C3550;padding-top:18px;font-size:29px;color:#A9B6C8;line-height:1.35}
+.avg b{color:#fff}.avg em{font-style:normal;color:#5DCAA5;font-weight:700}
+.alt{position:absolute;left:80px;right:80px;top:1198px;background:#0F2036;border:2px solid #1C3550;border-left:8px solid #1D9E75;border-radius:22px;padding:22px 30px}
+.alt .q{font-size:29px;font-weight:600}
+.alt .q span{color:#A9B6C8;font-weight:500}
+.vs{display:flex;gap:20px;margin-top:14px}
+.vs div{flex:1;font-size:26px;color:#A9B6C8}
+.vs b{display:block;font-family:'Inter Display';font-size:46px;color:#fff;font-weight:800;margin-top:2px}
+.vs .w b{color:#5DCAA5}
+.alt .k{font-size:27px;margin-top:12px;color:#fff;font-weight:600}
+.alt .k em{font-style:normal;color:#5DCAA5}
+.cta{position:absolute;left:80px;right:80px;top:1454px;border:3px solid #1D9E75;background:rgba(29,158,117,.14);color:#5DCAA5;border-radius:20px;padding:18px 30px;font-size:37px;font-weight:700;text-align:center}
+.cta small{display:block;font-size:26px;color:#A9B6C8;font-weight:500;margin-top:6px}
+.foot{position:absolute;left:0;right:0;top:1596px;display:flex;flex-direction:column;align-items:center}
+.brand{display:flex;align-items:center;gap:16px}.brand .n{font-size:34px;font-weight:700;letter-spacing:1px}
+.disc{color:#A9B6C8;font-size:19px;margin-top:0;text-align:center;line-height:1.35}
+</style></head><body>
+<svg class="deco" id="deco" viewBox="0 0 400 400" width="700" height="700" style="right:-320px;top:-200px">
+<rect x="58" y="58" width="284" height="284" transform="rotate(45 200 200)" fill="none" stroke="#123a44" stroke-width="2"/>
+<rect x="108" y="108" width="184" height="184" transform="rotate(45 200 200)" fill="none" stroke="#123a44" stroke-width="2"/></svg>
+<div class="wrap">
+  <div class="eyebrow" id="eb">
+    <svg viewBox="0 0 100 100" width="70" height="70"><rect x="17" y="17" width="66" height="66" transform="rotate(45 50 50)" fill="none" stroke="#0F6E56" stroke-width="4"/><rect x="31" y="31" width="38" height="38" transform="rotate(45 50 50)" fill="none" stroke="#1D9E75" stroke-width="3"/><circle cx="50" cy="50" r="8" fill="#1D9E75"/></svg>
+    <span class="pill">PÉDAGOGIE</span><span>DCA</span></div>
+  <h1><span class="w">6&nbsp;000&nbsp;€</span> <span class="w">d'un</span> <span class="w">coup,</span><br><span class="w">ou</span> <span class="w"><em>500&nbsp;€</em></span> <span class="w"><em>par&nbsp;mois</em>&nbsp;?</span></h1>
+  <div class="rule" id="rule"></div>
+  <div class="card" id="card">
+    <div class="top">
+      <div><div class="yr" id="yr">MOIS 0</div><div class="mk">Marché : <b id="mkt">100</b></div></div>
+      <div class="leg">
+        <div><span class="sw" style="background:#A9B6C8"></span>Tout d'un coup : <b id="vl">6 000 €</b></div>
+        <div><span class="sw" style="background:#5DCAA5"></span>500 €/mois : <b id="vd">6 000 €</b></div>
+      </div>
+    </div>
+    <svg width="904" height="340" overflow="visible" viewBox="0 0 904 340" style="margin-top:14px;display:block">
+      <g id="grid"></g>
+      <path id="lL" fill="none" stroke="#A9B6C8" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+      <path id="lD" fill="none" stroke="#5DCAA5" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+      <g id="marks"></g>
+    </svg>
+    <div class="avg" id="avg">Pendant la baisse, chaque versement achète <b>plus de parts</b>.<br>Prix moyen d'achat : <em>97,40</em> au lieu de <b>100</b>.</div>
+  </div>
+</div>
+<div class="alt" id="alt">
+  <div class="q">Et si le marché montait tout du long ? <span>(100 → 112)</span></div>
+  <div class="vs"><div class="w">Tout d'un coup<b>6 720 €</b></div><div>500 €/mois<b>6 377 €</b></div></div>
+  <div class="k">Le DCA ne gagne pas toujours. Il <em>réduit le risque de mal tomber</em>.</div>
+</div>
+<div class="cta" id="cta">Testez vos chiffres → lucide.finance<small>Simulateur DCA gratuit · sans inscription</small></div>
+<div class="foot" id="foot">
+    <div class="disc">Exemple illustratif sur un parcours de marché hypothétique (12 mois, sans frais ;<br>part non investie gardée en liquidités non rémunérées). Ne constitue pas un conseil en investissement.</div>
+</div>
+<script>
+window.DURATION=21;
+const clamp=(x)=>Math.max(0,Math.min(1,x));
+const ease=(x)=>{x=clamp(x);return 1-Math.pow(1-x,3)};
+const inout=(x)=>{x=clamp(x);return x<.5?2*x*x:1-Math.pow(-2*x+2,2)/2};
+const p=(t,a,d)=>ease((t-a)/d);
+function show(el,k,dy=40){el.style.opacity=k;el.style.transform=`translateY(${(1-k)*dy}px)`;}
+const eur=(v)=>Math.round(v).toString().replace(/\B(?=(\d{3})+(?!\d))/g,' ')+' €';
+const P=[100,104,108,112,106,95,86,82,88,94,100,104,108];
+const L=P.map(x=>60*x);
+const D=[];{let parts=0;P.forEach((x,m)=>{if(m<12)parts+=500/x;const inv=Math.min(m+1,12)*500;D.push(parts*x+6000-inv);});}
+const X0=80,X1=880,Y0=290,Y1=14,VMIN=4300,VMAX=7000;
+const X=(m)=>X0+(X1-X0)*m/12, Y=(v)=>Y0-(Y0-Y1)*(v-VMIN)/(VMAX-VMIN);
+let g='';
+[5000,6000,7000].forEach(v=>{g+=`<line x1="${X0}" x2="${X1}" y1="${Y(v)}" y2="${Y(v)}" stroke="#1C3550" stroke-width="1.5"/><text x="${X0-12}" y="${Y(v)+8}" fill="#A9B6C8" font-size="22" text-anchor="end">${v/1000}k</text>`});
+[0,3,6,9,12].forEach(m=>{g+=`<text x="${X(m)}" y="${Y0+38}" fill="#A9B6C8" font-size="22" text-anchor="${m==0?'start':m==12?'end':'middle'}">${m==0?'départ':m+' mois'}</text>`});
+document.getElementById('grid').innerHTML=g;
+const dot=(id,cx,cy,col)=>`<g id="${id}"><circle cx="${cx}" cy="${cy}" r="10" fill="#0A1628" stroke="${col}" stroke-width="5"/></g>`;
+const tag=(id,cx,cy,txt,col,dx,dy,w)=>`<g id="${id}"><line x1="${cx}" y1="${cy}" x2="${cx}" y2="${dy<0?cy+dy+46:cy+dy}" stroke="${col}" stroke-width="2" stroke-dasharray="4 5"/><circle cx="${cx}" cy="${cy}" r="10" fill="#0A1628" stroke="${col}" stroke-width="5"/><rect x="${cx+dx}" y="${cy+dy}" width="${w}" height="46" rx="12" fill="#0A1628" stroke="${col}" stroke-width="2"/><text x="${cx+dx+w/2}" y="${cy+dy+32}" fill="#fff" font-size="26" font-weight="700" text-anchor="middle">${txt}</text></g>`;
+document.getElementById('marks').innerHTML=
+ tag('lo1',X(7),Y(L[7]),'−1 080 €','#A9B6C8',-85,18,170)+
+ tag('lo2',X(7),Y(D[7]),'−655 €','#5DCAA5',-70,-112,140)+
+ dot('e1',X(12),Y(L[12]),'#A9B6C8')+dot('e2',X(12),Y(D[12]),'#5DCAA5');
+const val=(arr,m)=>{const i=Math.min(11,Math.floor(m)),f=m-i;return arr[i]+(arr[i+1]-arr[i])*f;};
+function path(arr,m){let s=`M${X(0)},${Y(arr[0])}`;for(let i=1;i<=Math.floor(m);i++)s+=` L${X(i)},${Y(arr[i])}`;if(m%1>0)s+=` L${X(m)},${Y(val(arr,m))}`;return s;}
+window.renderFrame=function(t){
+  show(document.getElementById('eb'),p(t,0.1,0.5));
+  document.querySelectorAll('.w').forEach((w,i)=>show(w,p(t,0.3+i*0.14,0.45),60));
+  document.getElementById('rule').style.width=(110*p(t,1.3,0.5))+'px';
+  show(document.getElementById('card'),p(t,1.9,0.6),80);
+  const m=12*inout((t-3.0)/8.5);
+  document.getElementById('lL').setAttribute('d',path(L,m));
+  document.getElementById('lD').setAttribute('d',path(D,m));
+  const mm=Math.round(m);
+  document.getElementById('yr').textContent='MOIS '+mm;
+  const px=P[mm],ch=px-100;
+  document.getElementById('mkt').textContent=px+(ch==0?'':' ('+(ch>0?'+':'−')+Math.abs(ch)+' %)');
+  document.getElementById('vl').textContent=eur(val(L,m));
+  document.getElementById('vd').textContent=eur(val(D,m));
+  [['lo1',7],['lo2',7],['e1',12],['e2',12]].forEach(([id,at])=>{document.getElementById(id).style.opacity=ease((m-at+0.4)/0.6);});
+  show(document.getElementById('avg'),p(t,11.8,0.6),20);
+  show(document.getElementById('alt'),p(t,13.6,0.6),40);
+  const kc=p(t,16.2,0.6),cta=document.getElementById('cta');cta.style.opacity=kc;cta.style.transform=`scale(${0.9+0.1*kc})`;
+  show(document.getElementById('foot'),p(t,0.2,0.6),20);
+  document.getElementById('deco').style.transform=`rotate(${Math.min(t,17)*1.5}deg)`;
+};
+window.renderFrame(0);
+</script></body></html>

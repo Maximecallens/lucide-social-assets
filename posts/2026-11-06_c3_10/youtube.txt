@@ -1,0 +1,10 @@
+TITLE: 6 000 € d'un coup ou 500 € par mois : quelle méthode gagne ? #Shorts
+DESCRIPTION:
+Sur un parcours de marché hypothétique de 12 mois (hausse, chute à −18 %, reprise à +8 %), investir 500 € par mois finit à 6 653 € contre 6 480 € pour 6 000 € investis d'un coup, avec un point bas bien moins profond (−655 € contre −1 080 €). Pendant la baisse, chaque versement achète plus de parts : le prix moyen d'achat descend à 97,40 au lieu de 100. Mais si le marché monte tout du long, le versement unique l'emporte (6 720 € contre 6 377 €). Le DCA ne gagne pas toujours : il réduit surtout le risque de mal tomber. Exemple illustratif sans frais, rendement non garanti.
+
+👉 lucide.finance/outils/simulateur-dca
+
+Contenu informatif, ne constitue pas un conseil en investissement.
+
+#bourse #investissement #dca
+TAGS: bourse,investissement,DCA,investissement programmé,versement unique,épargne,ETF,PEA,finance personnelle,Lucide
