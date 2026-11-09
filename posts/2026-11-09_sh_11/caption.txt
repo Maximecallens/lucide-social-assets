@@ -1,0 +1,21 @@
+La volatilité, c'est l'amplitude des secousses d'un placement autour de sa moyenne. 📈📉
+
+On la mesure par l'écart-type des variations, exprimé en % par an.
+
+Exemple hypothétique, 100 € sur 5 ans :
+→ placement calme : volatilité ≈ 4 %/an, arrivée à 140 €
+→ placement agité : volatilité ≈ 20 %/an, passé par 88 € en route, arrivée… à 140 € aussi
+
+Même résultat final, trajet très différent. La volatilité mesure l'inconfort du parcours, pas une perte définitive.
+
+Repère indicatif : l'échelle de risque des fonds (SRRI) va de 1 à 7 selon la volatilité. Environ 4 %/an correspond au niveau 3, environ 20 %/an au niveau 6.
+
+Sur Lucide, l'analyse de fonds par code ISIN affiche la volatilité et le niveau de risque (SRRI).
+
+👉 Lien en bio : lucide.finance/pricing
+
+Épisode 11 de « 1 notion en 20 s ». Quelle notion pour le prochain ? 👇
+
+Contenu informatif, ne constitue pas un conseil en investissement.
+
+#bourse #investissement #volatilite #risque #srri #fonds #etf #investirenbourse #financepersonnelle #lucidefinance

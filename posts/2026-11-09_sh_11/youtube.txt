@@ -1,0 +1,12 @@
+TITRE: La volatilité en bourse, c'est quoi ? Expliquée en 20 secondes #Shorts
+DESCRIPTION:
+La volatilité mesure l'amplitude des variations d'un placement autour de sa moyenne, via l'écart-type, en % par an. Exemple hypothétique : deux placements de 100 € arrivent tous les deux à 140 € en 5 ans ; l'un avec une volatilité d'environ 4 %/an, l'autre d'environ 20 %/an, passé par 88 € en route. La volatilité mesure l'inconfort du trajet, pas une perte définitive. Pour les fonds, l'échelle de risque SRRI va de 1 à 7 selon la volatilité (repère indicatif).
+
+Épisode 11 de la série « 1 notion en 20 s ».
+
+👉 Volatilité et niveau de risque (SRRI) de chaque fonds avec l'analyse par code ISIN : lucide.finance/pricing
+
+Contenu informatif, ne constitue pas un conseil en investissement.
+
+#bourse #volatilite #investissement
+TAGS: volatilité,écart-type,risque,SRRI,fonds,ETF,bourse,investissement,investir en bourse,Lucide
