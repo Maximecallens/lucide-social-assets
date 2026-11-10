@@ -1,0 +1,29 @@
+Une action prend +50 % en quelques mois. Et après ?
+Nous avons regardé ce qui s'est passé dans les 12 mois suivants, sur 23 424 envolées.
+
+L'étude Lucide porte sur environ 6 500 actions américaines et européennes, sociétés radiées incluses, de 2012 à octobre 2026. Chaque mois, la note fondamentale (Core Quality Score, sur 100) a été recalculée avec les seuls comptes publiés à cette date, sans connaître la suite.
+
+La question posée : après une hausse d'au moins +50 % depuis le plus bas des 6 derniers mois, combien de fois la hausse a-t-elle été entièrement effacée dans l'année ?
+
+→ Note inférieure à 40 : 34 % des cas (sur 6 708)
+→ Note de 40 à 54 : 21 % (sur 7 187)
+→ Note de 55 à 69 : 16 % (sur 6 943)
+→ Note de 70 et plus : 16 % (sur 2 586)
+
+Deux fois moins souvent pour les sociétés aux comptes solides. Le cours raconte l'enthousiasme du moment ; les comptes disent ce qui le soutient.
+
+À retenir : ce sont des fréquences historiques, pas une prévision. Une société bien notée peut tout reperdre, une société mal notée peut continuer de monter.
+
+Pour vous aider à remettre une hausse en contexte, Lucide a mis ces données en accès libre :
+→ indiquez un titre, ou une zone et une tranche de note
+→ indiquez l'ampleur de la hausse
+→ voyez ce qui s'est passé dans les 12 mois pour les cas comparables : hausse effacée, nouvelle baisse, comparaison à l'indice
+→ gratuit, sans inscription
+
+👉 Testez avec une action qui a beaucoup monté : lucide.finance/outils/action-en-hausse
+
+Et vous, quand une de vos actions s'envole : vous allégez, vous renforcez, ou vous regardez d'abord les comptes ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement. Les résultats passés ne préjugent pas des résultats futurs.
+
+#Bourse #Investissement #AnalyseFondamentale #PEA #FinancePersonnelle
