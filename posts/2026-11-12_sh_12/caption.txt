@@ -1,17 +1,17 @@
 Deux entreprises. Même croissance. Laquelle tu choisis ? 🤔
 +61 % de chiffre d'affaires en 5 ans pour les deux (exemple hypothétique).
 
-Le chiffre d'affaires, ce sont les ventes totales. Sa croissance annuelle moyenne (TCAM) se calcule ainsi : (CA final ÷ CA initial)^(1/5) − 1. Ici : 100 M€ → 161 M€ = 10 %/an.
+Chiffre d'affaires = ventes totales. Ici 100 → 161 M€, soit un TCAM (croissance annuelle moyenne) de 10 %/an.
 
 Mais regarde le bénéfice :
 → A : marge stable à 10 %, bénéfice 10 → 16,1 M€, soit +61 %
 → B : marge de 10 % à 6,2 %, bénéfice 10 → 10 M€, soit +0 %
 
-B a vendu 61 % de plus… pour 0 € de bénéfice en plus. La croissance des ventes n'a de valeur que si le bénéfice suit.
+B a vendu 61 % de plus… pour 0 € de bénéfice en plus.
 
-Repère indicatif : à côté du TCAM des ventes, regarde toujours l'évolution de la marge et du bénéfice par action.
+Repère indicatif : à côté des ventes, regarde la marge et le bénéfice par action.
 
-Sur Lucide, la note de croissance de chaque action suit le bénéfice et le cash par action sur 5 ans.
+Sur Lucide, la note de croissance suit le bénéfice et le cash par action sur 5 ans.
 
 👉 Lien en bio : lucide.finance/actions
 
