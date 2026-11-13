@@ -1,0 +1,29 @@
+Votre action a perdu 15 %. Va-t-elle rebondir ?
+Sur 45 853 chutes étudiées, la note n'a presque rien changé au rebond. Elle a changé autre chose : 64 % contre 50 %.
+
+L'étude Lucide porte sur environ 6 500 actions américaines et européennes, sociétés radiées incluses, de 2012 à octobre 2026. Un cas = le jour où le cours passe 15 % sous son plus haut des 6 derniers mois. La note fondamentale (Core Quality Score, sur 100) est celle de cette date, calculée avec les seuls comptes alors publiés.
+
+Mythe : une action aux comptes solides rebondit plus souvent.
+Réalité : environ 1 sur 2 a fait mieux que son indice dans les 6 mois, quelle que soit sa note (46 % pour les notes sous 40, 49 % pour les notes de 70 et plus).
+
+La vraie différence est ailleurs. Une nouvelle baisse d'au moins 15 % a suivi dans l'année :
+→ dans 64 % des cas pour les titres notés sous 40 (sur 12 776)
+→ dans 50 % des cas pour les titres notés 70 et plus (sur 4 888)
+
+La note ne dit pas qui rebondit. Elle dit qui est fragile.
+
+Ce sont des fréquences historiques, pas une prévision : une action bien notée peut continuer de baisser, une action mal notée peut repartir.
+
+Lucide met ces données en accès libre :
+→ indiquez un titre, ou une zone et une tranche de note
+→ choisissez l'ampleur de la baisse
+→ voyez ce qui s'est passé dans les 12 mois pour les cas comparables : retour au plus haut, nouvelle baisse, comparaison à l'indice
+→ gratuit, sans inscription
+
+👉 Testez avec l'action qui vous inquiète : lucide.finance/outils/action-en-chute
+
+Et vous, quand une de vos actions perd 15 % : vous renforcez, vous attendez, ou vous vérifiez d'abord les comptes ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement. Les résultats passés ne préjugent pas des résultats futurs.
+
+#Bourse #Investissement #AnalyseFondamentale #PEA #FinancePersonnelle
