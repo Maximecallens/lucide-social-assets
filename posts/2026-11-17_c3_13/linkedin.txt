@@ -1,0 +1,27 @@
+Après −30 %, le plus dur est-il passé ?
+69 %. C'est la part des actions mal notées qui ont encore perdu au moins 15 % dans l'année qui a suivi.
+
+L'étude Lucide porte sur environ 6 500 actions américaines et européennes (sociétés radiées incluses, 2012 à octobre 2026). Cette fois, les vraies chutes : un cours qui passe 30 % sous son plus haut des 6 derniers mois. Environ 22 000 cas. Note fondamentale (Core Quality Score, sur 100) = celle du jour de la chute, avec les seuls comptes alors publiés.
+
+Ce qui s'est passé dans les 12 mois suivants :
+→ nouvelle baisse d'au moins 15 % : 69 % des titres notés sous 40 (sur 6 806), 54 % des titres notés 70 et plus (sur 2 544)
+→ retour au plus haut précédent : 40 % des titres notés sous 40, 34 % des titres notés 70 et plus
+→ quand ce retour est arrivé, il a été rapide : environ 4 mois en médiane (notes sous 40), 6 mois (notes de 70 et plus)
+
+Le rebond complet reste une minorité. Même les sociétés aux comptes solides ont replongé plus d'une fois sur deux. La note ne dit pas qui va rebondir : elle signale surtout qui reste fragile.
+
+Ce sont des fréquences historiques, pas une prévision : une action bien notée peut continuer de baisser, une action mal notée peut repartir.
+
+Avec l'outil « Mon action a chuté » de Lucide :
+→ indiquez votre titre, ou une zone et une tranche de note
+→ choisissez l'ampleur de la baisse (−15 % ou −30 %)
+→ voyez ce qui a suivi pour les cas comparables : retour au plus haut, nouvelle baisse, comparaison à l'indice
+→ gratuit, sans inscription
+
+👉 Vérifiez l'action qui vous a fait mal : lucide.finance/outils/action-en-chute
+
+Et vous, après −30 % sur une ligne : vous renforcez, vous coupez, ou vous attendez le rebond ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement. Les résultats passés ne préjugent pas des résultats futurs.
+
+#Bourse #Investissement #AnalyseFondamentale #PEA #FinancePersonnelle

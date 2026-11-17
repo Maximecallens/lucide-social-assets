@@ -1,0 +1,124 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:1920px;background:#0A1628;font-family:Inter,sans-serif;color:#fff;position:relative;overflow:hidden}
+.deco{position:absolute}
+h1{position:absolute;left:80px;right:80px;top:250px;font-family:'Inter Display',Inter,sans-serif;font-weight:800;font-size:94px;line-height:1.04;letter-spacing:-2.5px}
+h1 span{display:inline-block}
+h1 em{font-style:normal;color:#1D9E75}
+.stat{position:absolute;left:80px;right:80px;top:556px;display:flex;align-items:center;gap:34px}
+.big{font-family:'Inter Display',Inter,sans-serif;font-weight:800;font-size:190px;line-height:.9;letter-spacing:-6px;color:#5DCAA5;font-variant-numeric:tabular-nums;min-width:350px}
+.big small{font-size:110px;letter-spacing:-2px}
+.st{font-size:35px;line-height:1.28;font-weight:600}
+.st span{display:block;color:#A9B6C8;font-size:26px;font-weight:500;margin-top:10px}
+.card{position:absolute;left:80px;right:80px;background:#0F2036;border:2px solid #1C3550;border-radius:30px;padding:24px 34px}
+#chart{top:776px;padding-bottom:10px}
+.hd{display:flex;align-items:center;justify-content:space-between}
+.pill{border:2px solid #1D9E75;border-radius:999px;padding:6px 18px;font-size:22px;letter-spacing:2px;color:#5DCAA5;font-weight:600}
+.ht{font-size:25px;color:#A9B6C8}
+.ht b{color:#fff}
+svg text{font-family:Inter}
+#bars{top:1138px;padding:22px 34px 20px}
+.gt{font-size:27px;font-weight:700;margin-bottom:6px}
+.gt span{color:#A9B6C8;font-weight:500}
+.br{display:flex;align-items:center;gap:16px;margin:5px 0}
+.br .l{width:190px;font-size:26px;color:#A9B6C8}
+.br .tr{flex:1;height:34px;background:#0A1628;border-radius:10px;overflow:hidden}
+.br .f{height:100%;border-radius:10px}
+.br .v{line-height:1;width:130px;white-space:nowrap;text-align:right;font-family:'Inter Display';font-size:40px;font-weight:800;font-variant-numeric:tabular-nums}
+.sep{height:1.5px;background:#1C3550;margin:10px 0 10px}
+.del{font-size:22px;color:#A9B6C8;margin-top:4px}
+.del b{color:#fff}
+.key{position:absolute;left:80px;right:80px;top:1505px;font-size:36px;font-weight:700;text-align:center;line-height:1.2}
+.key em{font-style:normal;color:#5DCAA5}
+.cta{position:absolute;left:80px;right:80px;top:1500px;border:3px solid #1D9E75;background:#0F2E33;color:#5DCAA5;border-radius:20px;padding:14px 26px;font-size:36px;font-weight:700;text-align:center;display:flex;align-items:center;justify-content:center;gap:18px}
+.cta small{display:block;font-size:24px;color:#A9B6C8;font-weight:500;margin-top:4px}
+.disc{position:absolute;left:50px;right:50px;top:1618px;color:#A9B6C8;font-size:17px;text-align:center;line-height:1.35}
+</style></head><body>
+<svg class="deco" id="deco" viewBox="0 0 400 400" width="700" height="700" style="right:-330px;top:-230px">
+<rect x="58" y="58" width="284" height="284" transform="rotate(45 200 200)" fill="none" stroke="#123a44" stroke-width="2"/>
+<rect x="108" y="108" width="184" height="184" transform="rotate(45 200 200)" fill="none" stroke="#123a44" stroke-width="2"/></svg>
+
+<h1><span class="w">Après</span> <span class="w"><em>−30&nbsp;%</em>,</span><br><span class="w">le</span> <span class="w">plus</span> <span class="w">dur</span> <span class="w">est-il</span><br><span class="w">passé&nbsp;?</span></h1>
+
+<div class="stat" id="stat">
+  <div class="big"><span id="n69">0</span><small>&nbsp;%</small></div>
+  <div class="st">des actions mal notées ont encore perdu au moins 15&nbsp;% dans l'année.<span>Sur environ 22&nbsp;000 chutes de −30&nbsp;% (2012-2026)</span></div>
+</div>
+
+<div class="card" id="chart">
+  <div class="hd"><span class="pill">ÉTUDE LUCIDE</span><span class="ht">Après la chute : <b>12 mois</b>, deux scénarios</span></div>
+  <svg width="908" height="262" viewBox="0 0 908 262" overflow="visible" style="display:block;margin-top:6px">
+    <line x1="20" x2="888" y1="40" y2="40" stroke="#1C3550" stroke-width="2" stroke-dasharray="6 8"/>
+    <text x="24" y="28" fill="#A9B6C8" font-size="21">plus haut précédent</text>
+    <path id="drop" fill="none" stroke="#fff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+    <path id="up" fill="none" stroke="#1D9E75" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+    <path id="dn" fill="none" stroke="#A9B6C8" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="2 0"/>
+    <g id="m30"><circle cx="330" cy="152" r="11" fill="#0A1628" stroke="#fff" stroke-width="5"/>
+      <rect x="250" y="172" width="160" height="48" rx="12" fill="#0A1628" stroke="#fff" stroke-width="2"/>
+      <text x="330" y="205" fill="#fff" font-size="29" font-weight="800" text-anchor="middle">−30 %</text></g>
+    <g id="lu"><rect x="568" y="56" width="320" height="46" rx="12" fill="#0A1628" stroke="#1D9E75" stroke-width="2"/>
+      <text x="728" y="87" fill="#5DCAA5" font-size="25" font-weight="700" text-anchor="middle">Retour au plus haut ?</text></g>
+    <g id="ld"><rect x="568" y="200" width="320" height="46" rx="12" fill="#0A1628" stroke="#A9B6C8" stroke-width="2"/>
+      <text x="728" y="231" fill="#fff" font-size="25" font-weight="700" text-anchor="middle">Encore −15 % ?</text></g>
+  </svg>
+</div>
+
+<div class="card" id="bars">
+  <div class="gt" id="g1">Nouvelle baisse ≥ 15 % <span>dans les 12 mois</span></div>
+  <div class="br" id="r1"><div class="l">Note &lt; 40</div><div class="tr"><div class="f" id="f1" style="background:#A9B6C8"></div></div><div class="v" id="v1">0 %</div></div>
+  <div class="br" id="r2"><div class="l">Note ≥ 70</div><div class="tr"><div class="f" id="f2" style="background:#1D9E75"></div></div><div class="v" id="v2" style="color:#5DCAA5">0 %</div></div>
+  <div class="sep" id="sep"></div>
+  <div class="gt" id="g2">Retour au plus haut <span>dans les 12 mois</span></div>
+  <div class="br" id="r3"><div class="l">Note &lt; 40</div><div class="tr"><div class="f" id="f3" style="background:#A9B6C8"></div></div><div class="v" id="v3">0 %</div></div>
+  <div class="br" id="r4"><div class="l">Note ≥ 70</div><div class="tr"><div class="f" id="f4" style="background:#1D9E75"></div></div><div class="v" id="v4" style="color:#5DCAA5">0 %</div></div>
+  <div class="del" id="del">Quand c'est arrivé : en <b>~4 mois</b> (note &lt; 40) et <b>~6 mois</b> (note ≥ 70), en médiane.</div>
+</div>
+
+<div class="key" id="key">Le rebond reste <em>une minorité</em>.<br>La note dit surtout <em>qui reste fragile</em>.</div>
+
+<div class="cta" id="cta">
+  <svg viewBox="0 0 100 100" width="62" height="62"><rect x="17" y="17" width="66" height="66" transform="rotate(45 50 50)" fill="none" stroke="#0F6E56" stroke-width="5"/><rect x="31" y="31" width="38" height="38" transform="rotate(45 50 50)" fill="none" stroke="#1D9E75" stroke-width="4"/><circle cx="50" cy="50" r="9" fill="#1D9E75"/></svg>
+  <div>Testez votre action → lucide.finance<small>Outil « Mon action a chuté » · gratuit, sans inscription</small></div>
+</div>
+<div class="disc" id="disc">Étude Lucide : ~6 500 actions US et Europe, 2012 à oct. 2026, note Core Quality à la date de la chute.<br>Courbe schématique. Fréquences historiques, pas une prévision. Ne constitue pas un conseil en investissement.</div>
+
+<script>
+window.DURATION=21;
+const clamp=(x)=>Math.max(0,Math.min(1,x));
+const ease=(x)=>{x=clamp(x);return 1-Math.pow(1-x,3)};
+const inout=(x)=>{x=clamp(x);return x<.5?2*x*x:1-Math.pow(-2*x+2,2)/2};
+const p=(t,a,d)=>ease((t-a)/d);
+const $=(id)=>document.getElementById(id);
+function show(el,k,dy=40){el.style.opacity=k;el.style.transform=`translateY(${(1-k)*dy}px)`;}
+// schematic paths (svg coords): high line y=40, -30% at y=152
+const DROP=[[20,60],[90,44],[150,40],[200,70],[240,92],[275,118],[305,136],[330,152]];
+const UP=[[330,152],[390,138],[440,112],[490,90],[540,64],[580,46],[620,40]];
+const DN=[[330,152],[380,140],[430,162],[480,176],[520,190],[560,214]];
+function poly(pts,k){ // partial polyline by length fraction k
+  const seg=[];let L=0;for(let i=1;i<pts.length;i++){const d=Math.hypot(pts[i][0]-pts[i-1][0],pts[i][1]-pts[i-1][1]);seg.push(d);L+=d;}
+  let rem=L*clamp(k),s=`M${pts[0][0]},${pts[0][1]}`;
+  for(let i=1;i<pts.length;i++){if(rem<=0)break;const d=seg[i-1];if(rem>=d){s+=` L${pts[i][0]},${pts[i][1]}`;rem-=d;}else{const f=rem/d;s+=` L${pts[i-1][0]+(pts[i][0]-pts[i-1][0])*f},${pts[i-1][1]+(pts[i][1]-pts[i-1][1])*f}`;rem=0;}}
+  return s;}
+function bar(i,val,a){const k=inout((a)/1.2);$('f'+i).style.width=(val*k)+'%';$('v'+i).textContent=Math.round(val*k)+' %';}
+window.renderFrame=function(t){
+  document.querySelectorAll('.w').forEach((w,i)=>show(w,p(t,-0.25+i*0.13,0.4),50));
+  const ks=p(t,1.5,0.5);show($('stat'),ks,40);
+  $('n69').textContent=Math.round(69*inout((t-1.7)/1.1));
+  show($('chart'),p(t,3.1,0.5),60);
+  $('drop').setAttribute('d',poly(DROP,inout((t-3.5)/2.0)));
+  $('m30').style.opacity=p(t,5.3,0.4);
+  $('up').setAttribute('d',poly(UP,inout((t-6.0)/2.4)));
+  $('dn').setAttribute('d',poly(DN,inout((t-6.0)/2.4)));
+  $('lu').style.opacity=p(t,7.6,0.5);$('ld').style.opacity=p(t,7.9,0.5);
+  show($('bars'),p(t,9.0,0.5),60);
+  bar(1,69,t-9.5);bar(2,54,t-10.1);
+  show($('sep'),p(t,11.6,0.4),0);show($('g2'),p(t,11.6,0.4),20);show($('r3'),p(t,11.7,0.4),20);show($('r4'),p(t,11.7,0.4),20);
+  bar(3,40,t-11.9);bar(4,34,t-12.4);
+  show($('del'),p(t,13.7,0.5),20);
+  const kk=p(t,15.0,0.5)*(1-p(t,17.6,0.4));show($('key'),kk,20);
+  const kc=p(t,18.0,0.5),cta=$('cta');cta.style.opacity=kc;cta.style.transform=`scale(${0.9+0.1*kc})`;
+  show($('disc'),p(t,3.1,0.6),10);
+  $('deco').style.transform=`rotate(${(0.6+Math.min(t,18))*1.5}deg)`;
+};
+window.renderFrame(0);
+</script></body></html>
