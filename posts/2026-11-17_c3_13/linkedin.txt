@@ -14,7 +14,7 @@ Des fréquences historiques, pas une prévision : une action bien notée peut co
 
 Avec l'outil « Mon action a chuté » de Lucide :
 → indiquez votre titre, ou une zone et une tranche de note
-→ choisissez l'ampleur de la baisse (−15 % ou −30 %)
+→ choisissez l'ampleur de la baisse
 → voyez ce qui a suivi pour les cas comparables : retour au plus haut, nouvelle baisse, comparaison à l'indice
 → gratuit, sans inscription
 
