@@ -1,0 +1,29 @@
+J'ai passé des années à construire un bot de trading. Ce que j'ai découvert m'a fait tout arrêter.
+4 stratégies testées avec les vrais frais. 0 sur 4 a passé ses propres critères.
+
+Mon robot sur le Forex n'a jamais été rentable. Alors j'ai changé de méthode : écrire les règles d'arrêt AVANT de voir le moindre résultat et intégrer tous les frais.
+
+Les 4 tests :
+→ Suivre la tendance du Bitcoin (2018-2026) : mieux que « acheter et attendre » sur le papier… avec une chute de −56,8 % en route.
+→ Trader sur les news : test impossible, 37,7 % des semaines sans aucune news.
+→ Fibonacci : 2 662 réglages testés sur un marché… qui n'existe pas.
+→ Une stratégie publiée sur le S&P 500 : −2,70 % par an après frais (2014-2026).
+
+Le détail de chaque test arrive dans les prochains posts.
+
+Je ne suis pas le seul : l'AMF a suivi près de 15 000 particuliers sur le Forex et les CFD. 89 % ont perdu de l'argent en 4 ans, 10 900 € en moyenne (AMF, 2014).
+
+Ce que j'en ai gardé, c'est la méthode. C'est elle qui fait Lucide :
+→ des règles écrites à l'avance, les mêmes pour toutes les actions
+→ une note sur 100 fondée sur les comptes publiés, pas sur des signaux de court terme
+→ des outils gratuits pour vérifier avant d'agir
+
+👉 Les 4 tests en détail : lucide.finance/blog/bot-de-trading-rentable?utm_source=facebook&utm_medium=social&utm_campaign=serie_trading&utm_content=lucide_li_c3_14
+
+Avant de chercher le bon trade, regardez ce que votre Livret A vous coûte 👉 lucide.finance/outils/epargne-qui-dort?utm_source=facebook&utm_medium=social&utm_campaign=serie_trading&utm_content=lucide_li_c3_14
+
+Et vous, vous avez déjà cru à un bot ou à une stratégie « miracle » ? Elle a tenu combien de temps ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement. Les résultats passés ne préjugent pas des résultats futurs.
+
+#Trading #Bourse #Investissement #FinancePersonnelle #Backtest
