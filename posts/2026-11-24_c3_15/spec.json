@@ -1,0 +1,10 @@
+{
+ "pill": "OUTIL GRATUIT",
+ "eyebrow": "VOTRE ÉPARGNE QUI DORT",
+ "title": "Vos 10&nbsp;000&nbsp;€ sur Livret&nbsp;A depuis 2015&nbsp;: ce qu'ils seraient devenus <em>ailleurs</em>",
+ "title_size": 60,
+ "middle_html": "<div class=\"vs\" style=\"margin-top:-14px\"><div class=\"a\" style=\"padding:26px 30px\"><div class=\"k\">SUR LE RELEVÉ</div><div style=\"font-family:'Inter Display',Inter;font-size:58px;font-weight:800;color:#FFFFFF;line-height:1\">11&nbsp;681&nbsp;€</div><div class=\"muted\" style=\"font-size:24px;margin-top:12px\">Livret A, intérêts compris</div></div><div class=\"b\" style=\"padding:26px 30px\"><div class=\"k\">EN POUVOIR D'ACHAT</div><div style=\"font-family:'Inter Display',Inter;font-size:58px;font-weight:800;color:#1D9E75;line-height:1\">9&nbsp;321&nbsp;€</div><div class=\"muted\" style=\"font-size:24px;margin-top:12px\">−6,8&nbsp;% après inflation INSEE</div></div></div><div class=\"card col\" style=\"margin-top:20px;padding:24px 36px;gap:14px\"><div class=\"t\">L'OUTIL COMPARE POUR VOUS</div><div class=\"row\">{CHECK}Livret A, LDDS, fonds euros, compte courant</div><div class=\"row\">{CHECK}Depuis le mois de votre choix, dès 2010</div><div class=\"row\">{CHECK}Face à un ETF MSCI World, inflation déduite</div></div>",
+ "chips": [],
+ "cta": "Gratuit, sans inscription &rarr; lucide.finance/outils",
+ "alt": "Visuel Lucide : 10 000 € placés sur Livret A en janvier 2015 valent 11 681 € fin octobre 2026, soit 9 321 € en pouvoir d'achat après inflation ; l'outil gratuit compare aussi avec un ETF MSCI World."
+}
