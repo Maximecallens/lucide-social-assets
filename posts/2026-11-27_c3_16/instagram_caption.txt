@@ -1,0 +1,16 @@
+Mon bot crypto battait le Bitcoin. Puis j'ai regardé mon compte. 📉
+
+28,8 % par an contre 20,8 % pour « acheter et attendre ». Sur le papier.
+
+Puis le chemin (backtest Kraken 2018-2026, frais inclus) :
+▪️ pire baisse : −56,8 %, ma limite écrite avant le test était −40 %
+▪️ 2022-2026 : l'avance a disparu (Sharpe 0,48 contre 0,51)
+▪️ acheter et attendre a fait pire : −77,8 %
+
+Le danger, c'est de décider au feeling quand le compte affiche −50 %. Lucide applique des règles écrites à l'avance, les mêmes pour ~25 000 actions. Vous gardez la décision.
+
+👉 Lien en bio : lucide.finance/blog/bot-de-trading-rentable
+
+⚠️ Contenu informatif, pas un conseil en investissement. Simulation passée, pas une prévision.
+
+#bitcoin #crypto #trading #bourse #investissement #backtest #financepersonnelle #investirenbourse #educationfinanciere #lucidefinance

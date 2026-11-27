@@ -1,0 +1,29 @@
+Mon bot crypto battait le Bitcoin. Puis j'ai regardé mon compte.
+28,8 % par an, contre 20,8 % pour « acheter et attendre ». Sur le papier, j'avais gagné.
+
+Le test : chaque semaine, j'achète le Bitcoin s'il est plus haut qu'il y a 4 semaines, sinon je reste en liquidités. Données Kraken 2018-2026, frais de 0,05 % et coût de financement inclus. Un backtest, pas un compte réel.
+
+Puis j'ai regardé le chemin, semaine après semaine :
+→ pire baisse en cours de route : −56,8 %. Mon compte simulé coupé de plus de moitié.
+→ ma limite, écrite AVANT le test : −40 %. Échec.
+→ sur 2022-2026, l'avance a disparu : ratio de Sharpe 0,48 contre 0,51 pour acheter et attendre.
+→ et acheter et attendre a fait pire : −77,8 %. Le bot ne protégeait de rien.
+
+Le vrai danger n'est pas le marché. C'est de décider au feeling quand votre compte affiche −50 %.
+
+C'est pour ça que Lucide fonctionne avec des règles écrites à l'avance :
+→ la même méthode pour ~25 000 actions, publiée sur lucide.finance/methodologie
+→ une note sur 100 tirée des comptes publiés, pas d'un signal de court terme
+→ vous voyez pourquoi la note bouge, et vous gardez la décision
+
+Arrêtez de décider au feeling : la règle d'abord, la décision ensuite.
+
+👉 Les 4 tests en détail : lucide.finance/blog/bot-de-trading-rentable?utm_source=linkedin&utm_medium=social&utm_campaign=serie_trading&utm_content=lucide_li_c3_16
+
+Avant de chercher le bon trade, regardez ce que votre Livret A vous coûte 👉 lucide.finance/outils/epargne-qui-dort?utm_source=linkedin&utm_medium=social&utm_campaign=serie_trading&utm_content=lucide_li_c3_16
+
+Et vous, quelle perte en cours de route seriez-vous prêt à encaisser sans tout vendre ?
+
+⚠️ Contenu informatif, ne constitue pas un conseil en investissement. Résultats simulés passés, qui ne préjugent pas des résultats futurs.
+
+#Bitcoin #Trading #Bourse #Investissement #Backtest

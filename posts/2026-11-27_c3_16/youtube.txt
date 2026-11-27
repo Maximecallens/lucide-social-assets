@@ -1,0 +1,10 @@
+TITLE: Mon bot crypto battait le Bitcoin. Puis j'ai regardé mon compte #Shorts
+DESCRIPTION:
+J'ai testé une stratégie de tendance sur le Bitcoin (données Kraken 2018-2026, frais inclus) : 28,8 % par an sur le papier, contre 20,8 % pour acheter et attendre. Mais la pire baisse en cours de route atteint −56,8 %, au-delà de la limite de −40 % fixée avant le test, et sur 2022-2026 l'avance disparaît (Sharpe 0,48 contre 0,51). Acheter et attendre a fait pire encore (−77,8 %) : le bot ne protégeait de rien. Ce qui protège, c'est une règle écrite avant de voir le résultat : c'est la méthode que Lucide applique à ~25 000 actions. Les 4 tests sont détaillés dans l'article gratuit.
+
+👉 lucide.finance/blog/bot-de-trading-rentable
+
+Contenu informatif, ne constitue pas un conseil en investissement. Simulation passée, pas une prévision.
+
+#bourse #investissement #bitcoin
+TAGS: bourse,investissement,bitcoin,crypto,bot de trading,trading,backtest,stratégie de tendance,Lucide
